@@ -72,39 +72,39 @@ The following queries are implemented:
 Below are screenshots of the query outputs:
 
 1. **Available Books**:
-   ![Available Books](screenshots/Q.1.png)
+   ![Available Books](Screenshots/Q.1.png)
 
 2. **Employees by Salary**:
-   ![Employees by Salary](screenshots/Q.2.png)
+   ![Employees by Salary](Screenshots/Q.2.png)
 
 3. **Customers Who Issued Books**:
-   ![Customers Who Issued Books](screenshots/Q.3.png)
+   ![Customers Who Issued Books](Screenshots/Q.3.png)
 
 4. **Books by Category**:
-   ![Books by Category](screenshots/Q.4.png)
+   ![Books by Category](Screenshots/Q.4.png)
 
 5. **High-Salary Employees**:
-   ![High-Salary Employees](screenshots/Q.5.png)
+   ![High-Salary Employees](Screenshots/Q.5.png)
 
 6. **Inactive Customers**:
-   ![Inactive Customers](screenshots/Q.6.png)
+   ![Inactive Customers](Screenshots/Q.6.png)
 
 7. **Employees per Branch**:
-   ![Employees per Branch](screenshots/Q.7.png)
+   ![Employees per Branch](Screenshots/Q.7.png)
 
 8. **June 2023 Issuances**:
-   ![June 2023 Issuances](screenshots/Q.8.png)
+   ![June 2023 Issuances](Screenshots/Q.8.png)
 
 9. **History Books**:
-   ![History Books](screenshots/Q.9.png)
+   ![History Books](Screenshots/Q.9.png)
 
 10. **Branches with More Than 5 Employees**:
-    ![Branches with More Than 5 Employees](screenshots/Q.10.png)
+    ![Branches with More Than 5 Employees](Screenshots/Q.10.png)
 
 11. **Branch Managers**:
-    ![Branch Managers](screenshots/Q.11.png)
+    ![Branch Managers](Screenshots/Q.11.png)
 
 12. **Expensive Book Issuances**:
-    ![Expensive Book Issuances](screenshots/Q.12.png)
+    ![Expensive Book Issuances](Screenshots/Q.12.png)
 
 ---
