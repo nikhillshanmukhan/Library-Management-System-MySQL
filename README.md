@@ -49,3 +49,62 @@ The database is populated with sample data for testing:
 - 10 returned books
 
 ---
+## SQL Queries
+
+The following queries are implemented:
+1. Retrieve the book title, category, and rental price of all available books.
+2. List the employee names and their respective salaries in descending order of salary.
+3. Retrieve the book titles and the corresponding customers who have issued those books.
+4. Display the total count of books in each category.
+5. Retrieve the employee names and their positions for the employees whose salaries are above Rs.50,000.
+6. List the customer names who registered before 2022-01-01 and have not issued any books yet.
+7. Display the branch numbers and the total count of employees in each branch.
+8. Display the names of customers who have issued books in June 2023.
+9. Retrieve book_title from the book table containing history.
+10. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
+11. Retrieve the names of employees who manage branches and their respective branch addresses.
+12. Display the names of customers who have issued books with a rental price higher than Rs. 25.
+
+---
+
+## Screenshots
+
+Below are screenshots of the query outputs:
+
+1. **Available Books**:
+   ![Available Books](screenshots/available_books.png)
+
+2. **Employees by Salary**:
+   ![Employees by Salary](screenshots/employees_by_salary.png)
+
+3. **Customers Who Issued Books**:
+   ![Customers Who Issued Books](screenshots/customers_issued_books.png)
+
+4. **Books by Category**:
+   ![Books by Category](screenshots/books_by_category.png)
+
+5. **High-Salary Employees**:
+   ![High-Salary Employees](screenshots/high_salary_employees.png)
+
+6. **Inactive Customers**:
+   ![Inactive Customers](screenshots/inactive_customers.png)
+
+7. **Employees per Branch**:
+   ![Employees per Branch](screenshots/employees_per_branch.png)
+
+8. **June 2023 Issuances**:
+   ![June 2023 Issuances](screenshots/june_2023_issuances.png)
+
+9. **History Books**:
+   ![History Books](screenshots/history_books.png)
+
+10. **Branches with More Than 5 Employees**:
+    ![Branches with More Than 5 Employees](screenshots/branches_more_than_5_employees.png)
+
+11. **Branch Managers**:
+    ![Branch Managers](screenshots/branch_managers.png)
+
+12. **Expensive Book Issuances**:
+    ![Expensive Book Issuances](screenshots/expensive_book_issuances.png)
+
+---
